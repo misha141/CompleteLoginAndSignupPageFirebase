@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <group>
+        <item
+            android:id="@+id/nav_my_orders"
+            android:icon="@drawable/orders_icon"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/nav_my_rewards"
+            android:icon="@drawable/rewars_icon"
+            android:title="MY Rewards" />
+
+        <item
+            android:id="@+id/nav_my_cart"
+            android:icon="@drawable/cart_icon"
+            android:title="MY Rewards" />
+
+        <item
+            android:id="@+id/nav_my_wishlist"
+            android:icon="@drawable/wishlist_icon"
+            android:title="MY Wishlist" />
+
+        <item
+            android:id="@+id/nav_my_account"
+            android:icon="@drawable/person"
+            android:title="MY Account" />
+    </group>
+</menu>
